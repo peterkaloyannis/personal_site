@@ -7,7 +7,7 @@ export const allExperienceData: CVEntryProps[] = [
   {
     startYear: 2022,
     endYear: 'Present',
-    title: 'Intern ➡ Plasma Control Engineer II',
+    title: 'Intern ➡ Senior Real Time Control Engineer',
     location: 'Commonwealth Fusion Systems (CFS)',
     description: `Currently developing the SPARC control software and operational procedures.
 Control work involves designing, implementing, and testing novel real-time capable
